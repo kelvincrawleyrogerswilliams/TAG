@@ -1,3 +1,6 @@
+> [!TIP]
+> We recommend viewing the TAG wiki at https://github.com/StopTAG - thie is a fork that is likely not being updated.
+
 > [!IMPORTANT]
 > **The Apocalypse began August 26th. [[Read more|Revelation]]** 
 
